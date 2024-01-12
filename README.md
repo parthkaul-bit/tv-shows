@@ -8,15 +8,21 @@ This is a simple React application for booking tickets for TV shows. Users can v
 - Displays a list of TV shows fetched from the TVMaze API.
 - Each show is represented as a clickable card that redirects to the show details page.
 
+![image](https://github.com/parthkaul-bit/tv-shows-app/assets/127819564/59bda66b-b730-4845-84a9-80e3fc20b40e)
+
 ### Show Details Page
 - Displays detailed information about a selected TV show.
 - Allows users to book movie tickets for the show.
 - Checks if the show is already booked and updates the UI accordingly.
 
+![image](https://github.com/parthkaul-bit/tv-shows-app/assets/127819564/3826228c-9810-415f-9f3a-966ec477a042)
+
 ### Booking Form
 - A form to collect user details for booking a movie ticket.
 - User input fields include name, email, and phone number.
 - On successful booking, redirects to the show details page and displays a success alert.
+
+![image](https://github.com/parthkaul-bit/tv-shows-app/assets/127819564/6fc1b003-579c-4ffc-a5d0-6e234852e6cf)
 
 ## Usage
 
